@@ -1,0 +1,12 @@
+{
+"name": "G O A T Search",
+"version": "0.1",
+"description": "G O A T(Greatest of All Time) Search is the combination of two popular search engine Google and DuckDuckGo. It helps the user to have a choice of Traced Search and Non-Traced Search Easily that is the motive of G O A T Search. Stay Ahead and Be GOATED!",
+"chrome_url_overrides":{
+    "newtab": "newtab.html"
+},
+"manifest_version":2,
+"icons": { "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png" }
+}
